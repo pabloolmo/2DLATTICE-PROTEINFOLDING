@@ -1,2 +1,2 @@
 # 2DLATTICE-PROTEINFOLDING
-MCMC code for 2d-protein folding using a square lattice.
+MCMC using Markov Chains code for 2d-protein folding using a square lattice.
